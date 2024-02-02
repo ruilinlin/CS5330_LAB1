@@ -54,6 +54,3 @@ pip install opencv-python-headless numpy gradio
 
 Contributions to this project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
